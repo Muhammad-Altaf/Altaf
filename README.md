@@ -7,6 +7,6 @@
   <a href="https://twitter.com/iAltaf7"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br>
  </div>
-<h4 align="center">📫 The best way to reach me over is Linkedin👉 https://linkedin.com/in/iAltaf7. You can also send me a mail to ialtaf011@gmail.com.</h3>
+<h4 align="center">📫 The best way to reach me over is Linkedin👉 https://linkedin.com/in/iAltaf7. You can also send me a mail to imaltaf28@gmail.com.</h3>
 
 <br>
